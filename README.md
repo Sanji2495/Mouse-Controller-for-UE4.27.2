@@ -2,7 +2,7 @@
 
 This plugin provides Blueprint Functions to map any Keyboard- or Gamepad Button or -Axis to any Mouse Button or -Axis.
 
-- You can find this Plugin in the folder "Input"
+- You can find this Plugin in the Folder "Input"
 
 How to Use:
 
