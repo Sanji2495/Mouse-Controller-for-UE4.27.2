@@ -1,0 +1,24 @@
+{
+	"FileVersion" : 3,
+	"Version" : 0.8,
+	"VersionName" : "0.8 Beta",
+	"FriendlyName" : "Mouse Controller",
+	"Description" : "",
+	"Category" : "Input",
+	"CreatedBy" : "Sanji Low",
+	"CreatedByURL" : "",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"CanContainContent" : false,
+	"IsBetaVersion" : true,
+	"Installed" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "MouseController",
+			"Type" : "Runtime",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
