@@ -1,4 +1,4 @@
-# Mouse-Controller-for-UE4.27.2
+# Mouse-Controller-for-UE4-and-UE5 (4.27.2 and 5.0.3)
 
 This plugin provides Blueprint Functions to map any Keyboard- or Gamepad Button or -Axis to any Mouse Button or -Axis.
 
